@@ -1,0 +1,4 @@
+site_name: drf-nested-resource
+site_description: View mixin for Django REST framework that simplisimplifies nested resource serializers.
+repo_url: https://github.com/NextHub/drf-nested-resource
+site_dir: html
